@@ -14,8 +14,8 @@ This project scrapes audiobook data from the Audible website using Selenium and 
 - Visualizes audiobook trends (release year, duration distribution, top authors)  
 
 ## 📂 Files  
-- `scraping.py` → Web scraping script  
-- `analysis.py` → Data analysis script  
+- `scraping.ipynb` → Web scraping script  
+- `analysis.ipynb` → Data analysis script  
 - `audible_books.csv` → Raw scraped data  
 - `cleaned_books.csv` → Cleaned dataset  
 
